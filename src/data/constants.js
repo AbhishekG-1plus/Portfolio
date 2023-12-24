@@ -12,9 +12,8 @@ export const Bio = {
   github: "https://github.com/AbhishekG-1plus",
   resume:
     "https://drive.google.com/file/d/1pZfIgDZ8hpXLc9nE0xkAW-ugkhF8VGr3/view",
-  linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  twitter: "https://twitter.com/RishavChanda",
-  insta: "https://www.instagram.com/rishav_chanda/"
+  linkedin: "https://www.linkedin.com/in/abhishekgadekar1224/",
+  twitter: "https://x.com/Abhishe95887973?t=qpc25xIG3QHebfpi7jY-aA&s=09",
 };
 
 export const skills = [
