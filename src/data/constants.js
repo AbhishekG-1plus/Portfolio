@@ -244,8 +244,8 @@ export const projects = [
       "Face-Recognition"
     ],
     category: "cv",
-    github: "https://github.com/AbhishekG-1plus/SpeechEmotionRecognition",
-    webapp: "https://github.com/AbhishekG-1plus/SpeechEmotionRecognition",
+    github: "https://github.com/AbhishekG-1plus/AreYouWorking",
+    webapp: "https://github.com/AbhishekG-1plus/AreYouWorking",
   
   },
   {
@@ -262,8 +262,8 @@ export const projects = [
       "Sharpe Ratio",
     ],
     category: "quant",
-    github: "https://github.com/AbhishekG-1plus/SpeechEmotionRecognition",
-    webapp: "https://github.com/AbhishekG-1plus/SpeechEmotionRecognition",
+    github: "https://github.com/AbhishekG-1plus/Quant_Research_Project-Abhishek-Gadekar",
+    webapp: "https://github.com/AbhishekG-1plus/Quant_Research_Project-Abhishek-Gadekar",
   },
   {
     id: 4,
@@ -296,8 +296,8 @@ export const projects = [
       "Bootstrap 4.0"
     ],
     category: "web",
-    github: "https://github.com/AbhishekG-1plus/SpeechEmotionRecognition",
-    webapp: "https://github.com/AbhishekG-1plus/SpeechEmotionRecognition",
+    github: "https://github.com/AbhishekG-1plus/DIGITAL_CLOCK",
+    webapp: "https://github.com/AbhishekG-1plus/DIGITAL_CLOCK",
   
 }
 
