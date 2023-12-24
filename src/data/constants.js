@@ -253,7 +253,7 @@ export const projects = [
     title: "Quant-Pair-Trading",
     description:
       "Nifty and Bank Nifty indices have significant overlap in terms of their constituents and weights. My thesis is that their volatilities are also likely to be affected by similar market conditions and macroeconomic factors. We can thus construct a pairs trading strategy that attempts to capture any dispersion that may occur between the volatilities of the two indices.This project will involve building a pairs trading strategy to test this hypothesis. The output we are looking for is a medium-frequency strategy that has a trading horizon ranging between 30 min to 5 days.",
-    image: "https://private-user-images.githubusercontent.com/77354191/292658419-ab105081-4539-4661-8c35-7254ab4d08f8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM0MDExMjQsIm5iZiI6MTcwMzQwMDgyNCwicGF0aCI6Ii83NzM1NDE5MS8yOTI2NTg0MTktYWIxMDUwODEtNDUzOS00NjYxLThjMzUtNzI1NGFiNGQwOGY4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjI0VDA2NTM0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEzMTA1MDM5YmRhNmNhMjA0MDJhZjk4MzJmMzM2Nzk0ZGJmZDc0YzViMWQ2NGFiNDM3NjM1MmJiZDBhYjI3MjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.JZKyLDMm9zw28t2oaR9c276wE-yKIfKDgNs8ZVH0d9c",
+    image: "https://raw.githubusercontent.com/AbhishekG-1plus/Quant_Research_Project-Abhishek-Gadekar/main/quant.png",
     tags: [
       "Python",
       "Pair Trading Startegy",
