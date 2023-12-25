@@ -107,7 +107,7 @@ export const Img = styled.img`
 
   @media (max-width: 640px) {
     max-width: 280px;
-    max-height: 280px;
+    max-height: 370px;
   }
 `;
 
