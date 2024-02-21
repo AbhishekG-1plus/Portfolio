@@ -3,8 +3,7 @@ import ser from "../data/ser.png";
 export const Bio = {
   name: "Abhishek Gadekar",
   roles: [
-    "Machine Learning Researcher",
-    "Deep Learning Enthusiast",
+    "ML Researcher",
     "Data Science Enthusiast",
     "Frontend Developer"   
   ],
