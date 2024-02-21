@@ -3,9 +3,10 @@ import ser from "../data/ser.png";
 export const Bio = {
   name: "Abhishek Gadekar",
   roles: [
-    "Frontend Developer",
+    "Machine Learning Researcher",
     "Deep Learning Enthusiast",
-    "Data Science Enthusiast"    
+    "Data Science Enthusiast",
+    "Frontend Developer"   
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
@@ -190,7 +191,7 @@ export const education = [
     date: "Apr 2019 - Apr 2025",
     grade: "95.1%",
     desc: "I completed my class 12 high school education at Base PU College Hubli, where I studied PCMS & cleared JEE-Advance, JEE-Mains & IAT (IISER Aptitude Test).",
-    degree: "ISC(XII), Science with Computer",
+    degree: "ISC(XII), Science with Statistics",
   },
   {
     id: 2,
@@ -198,7 +199,7 @@ export const education = [
     school: "Parivarthan Gurukul School, Hubli",
     date: "Apr 2017 - Apr 2019",
     grade: "93.1%",
-    desc: "I completed my class 10 education at Methodist School, Dankuni, where I studied Science with Computer Application.",
+    desc: "I completed my class 10 education at Parivarthan Gurukul School, Hubli, where I studied Science with Computer Application.",
     degree: "ICSE(X), Science with Computer",
   },
 ];
